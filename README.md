@@ -1,1 +1,1 @@
-# responsia
+# responsi
